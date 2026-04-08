@@ -1,9 +1,10 @@
+![Easin Arafat - Hero Banner](https://github.com/user-attachments/assets/3e20d923-a762-466e-aaa1-b3a99c5bd300)
+
 # Hi, I'm Easin Arafat 👋  
 ### 🚀 Aspiring Full Stack Web Developer from Bangladesh 🇧🇩
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Modern+Web+Apps;Future+Full+Stack+Dev&center=true&width=500&height=45&color=00BFFF" alt="Typing SVG" />![1773414997284](https://github.com/user-attachments/assets/3e20d923-a762-466e-aaa1-b3a99c5bd300)
-
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Modern+Web+Apps;Future+Full+Stack+Dev&center=true&width=500&height=45&color=00BFFF" alt="Typing SVG" />
 </div>
 
 ---
@@ -13,7 +14,7 @@
 💡 Passionate about building **clean, modern & responsive** web experiences  
 💻 Creating delightful UIs with smooth user interactions  
 🎯 Aiming to become a **professional Full Stack Developer**  
-📍Bangladesh 🇧🇩
+📍 Bangladesh 🇧🇩
 
 ---
 
@@ -51,15 +52,16 @@ Clean web app for managing GitHub issues with authentication.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arafatgw5-cpu&theme=tokyonight)
-
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&theme=tokyonight)
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=arafatgw5-cpu&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arafatgw5-cpu&theme=tokyo-night)
 
 ---
 

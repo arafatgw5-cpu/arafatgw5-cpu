@@ -4,7 +4,7 @@
 ### 🚀 Aspiring Full Stack Web Developer from Bangladesh 🇧🇩
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Crafting+Modern+UIs;Building+Delightful+Experiences;Future+Full+Stack+Dev;Code.+Learn.+Build.+Repeat.&center=true&width=600&height=50&color=00BFFF&font=Roboto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+Enthusiast;Crafting+Modern+UIs;Building+Delightful+Experiences;Future+Full+Stack+Dev;Code.+Learn.+Build.+Repeat.&center=true&width=600&height=50&color=00BFFF&font=Roboto" alt="Typing SVG" />
 </div>
 
 ---
@@ -20,7 +20,7 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,figma,vscode,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,figma,vscode,netlify" alt="Tech Stack" />
 </div>
 
 **Exploring:** Next.js • TypeScript • Node.js
@@ -32,29 +32,29 @@
 ### 🔹 Personal Portfolio
 Modern, responsive portfolio website with clean design and smooth animations.
 
-🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Aspiring-Web-Developer-A/)** 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A)**
+🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Aspiring-Web-Developer-A/)** | 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A)**
 
 ### 🔹 Digital Tools Marketplace
 Sleek e-commerce platform for digital tools & AI solutions.
 
-🔗 **[Live Demo](https://digitools-assignment-ba13-6.netlify.app/)** 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-6-B13)**
+🔗 **[Live Demo](https://digitools-assignment-ba13-6.netlify.app/)** | 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-6-B13)**
 
 ### 🔹 GitHub Issues Tracker
 Clean web app for managing GitHub issues with authentication.
 
-🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Assignment-5-B13/)** 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-5-B13)**
+🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Assignment-5-B13/)** | 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-5-B13)**
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---

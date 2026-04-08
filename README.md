@@ -4,7 +4,7 @@
 ### 🚀 Aspiring Full Stack Web Developer from Bangladesh 🇧🇩
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Modern+Web+Apps;Future+Full+Stack+Dev&center=true&width=500&height=45&color=00BFFF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Crafting+Modern+UIs;Building+Delightful+Experiences;Future+Full+Stack+Dev;Code.+Learn.+Build.+Repeat.&center=true&width=600&height=50&color=00BFFF&font=Roboto" alt="Typing SVG" />
 </div>
 
 ---
@@ -14,7 +14,7 @@
 💡 Passionate about building **clean, modern & responsive** web experiences  
 💻 Creating delightful UIs with smooth user interactions  
 🎯 Aiming to become a **professional Full Stack Developer**  
-📍 Bangladesh 🇧🇩
+📍 Khulna, Bangladesh 🇧🇩
 
 ---
 
@@ -53,13 +53,29 @@ Clean web app for managing GitHub issues with authentication.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arafatgw5-cpu&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-snake-dark.svg)
+
+---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arafatgw5-cpu&theme=tokyo-night)
 

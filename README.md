@@ -49,29 +49,18 @@ Clean web app for managing GitHub issues with authentication.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arafatgw5-cpu&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div>
+
 
 ---
 

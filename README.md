@@ -2,17 +2,17 @@
 ### 🚀 Aspiring Full Stack Web Developer from Bangladesh 🇧🇩
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Crafting+Modern+UIs;Future+Full+Stack+Dev&center=true&width=500&height=45&color=00BFFF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Modern+Web+Apps;Future+Full+Stack+Dev&center=true&width=500&height=45&color=00BFFF" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🧠 About Me
 
-💡 Passionate about building **clean, modern & responsive** web apps  
-💻 Love creating smooth, delightful user experiences  
-🎯 Journey to become a **professional Full Stack Developer**  
-📍Bangladesh 🇧🇩
+💡 Passionate about building **clean, modern & responsive** web experiences  
+💻 Creating delightful UIs with smooth user interactions  
+🎯 Aiming to become a **professional Full Stack Developer**  
+📍 Khulna, Bangladesh 🇧🇩
 
 ---
 
@@ -29,7 +29,7 @@
 ## 🚀 Featured Projects
 
 ### 🔹 Personal Portfolio
-Modern, responsive portfolio with smooth animations & clean design.
+Modern, responsive portfolio website with clean design and smooth animations.
 
 🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Aspiring-Web-Developer-A/)**  
 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A)**
@@ -41,7 +41,7 @@ Sleek e-commerce platform for digital tools & AI solutions.
 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-6-B13)**
 
 ### 🔹 GitHub Issues Tracker
-Clean app to manage GitHub issues with secure login.
+Clean web app for managing GitHub issues with authentication.
 
 🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Assignment-5-B13/)**  
 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-5-B13)**
@@ -62,7 +62,7 @@ Clean app to manage GitHub issues with secure login.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/easin-arafat-2147473a9/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://easinportfolio.netlify.app/](https://arafatgw5-cpu.github.io/Aspiring-Web-Developer-A/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arafatgw5-cpu.github.io/Aspiring-Web-Developer-A/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafatgw5@gmail.com)
 
 </div>
@@ -71,5 +71,5 @@ Clean app to manage GitHub issues with secure login.
 
 > **"Code. Learn. Build. Repeat."** 🔥
 
-*Open for Internship / Junior Developer roles*  
+*Open for Internship & Junior Developer roles*  
 Made with ❤️ in Bangladesh 🇧🇩

@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi, I'm Easin Arafat 👋  
+### 🚀 Aspiring Full Stack Web Developer from Bangladesh 🇧🇩
 
-<!--
-**arafatgw5-cpu/arafatgw5-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Crafting+Modern+UIs;Future+Full+Stack+Dev&center=true&width=500&height=45&color=00BFFF" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+💡 Passionate about building **clean, modern & responsive** web apps  
+💻 Love creating smooth, delightful user experiences  
+🎯 Journey to become a **professional Full Stack Developer**  
+📍Bangladesh 🇧🇩
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,git,github,figma,vscode,netlify" />
+</div>
+
+**Exploring:** Next.js • TypeScript • Node.js
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Personal Portfolio
+Modern, responsive portfolio with smooth animations & clean design.
+
+🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Aspiring-Web-Developer-A/)**  
+🔗 **[GitHub](https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A)**
+
+### 🔹 Digital Tools Marketplace
+Sleek e-commerce platform for digital tools & AI solutions.
+
+🔗 **[Live Demo](https://digitools-assignment-ba13-6.netlify.app/)**  
+🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-6-B13)**
+
+### 🔹 GitHub Issues Tracker
+Clean app to manage GitHub issues with secure login.
+
+🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Assignment-5-B13/)**  
+🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-5-B13)**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" height="170" />
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/easin-arafat-2147473a9/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://easinportfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafatgw5@gmail.com)
+
+</div>
+
+---
+
+> **"Code. Learn. Build. Repeat."** 🔥
+
+*Open for Internship / Junior Developer roles*  
+Made with ❤️ in Bangladesh 🇧🇩

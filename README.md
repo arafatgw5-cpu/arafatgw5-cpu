@@ -12,7 +12,7 @@
 💡 Passionate about building **clean, modern & responsive** web experiences  
 💻 Creating delightful UIs with smooth user interactions  
 🎯 Aiming to become a **professional Full Stack Developer**  
-📍 Khulna, Bangladesh 🇧🇩
+📍Bangladesh 🇧🇩
 
 ---
 

@@ -50,10 +50,15 @@ Clean web app for managing GitHub issues with authentication.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" height="170" />
-</div>
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=arafatgw5-cpu&theme=tokyonight)
+
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&theme=tokyonight)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=arafatgw5-cpu&theme=tokyo-night)
 
 ---
 

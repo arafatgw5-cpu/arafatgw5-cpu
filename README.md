@@ -13,8 +13,7 @@
 
 💡 Passionate about building **clean, modern & responsive** web experiences  
 💻 Creating delightful UIs with smooth user interactions  
-🎯 Aiming to become a **professional Full Stack Developer**  
-📍 Khulna, Bangladesh 🇧🇩
+🎯 Aiming to become a **professional Full Stack Developer** 📍Bangladesh 🇧🇩
 
 ---
 
@@ -33,20 +32,17 @@
 ### 🔹 Personal Portfolio
 Modern, responsive portfolio website with clean design and smooth animations.
 
-🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Aspiring-Web-Developer-A/)**  
-🔗 **[GitHub](https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A)**
+🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Aspiring-Web-Developer-A/)** 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A)**
 
 ### 🔹 Digital Tools Marketplace
 Sleek e-commerce platform for digital tools & AI solutions.
 
-🔗 **[Live Demo](https://digitools-assignment-ba13-6.netlify.app/)**  
-🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-6-B13)**
+🔗 **[Live Demo](https://digitools-assignment-ba13-6.netlify.app/)** 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-6-B13)**
 
 ### 🔹 GitHub Issues Tracker
 Clean web app for managing GitHub issues with authentication.
 
-🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Assignment-5-B13/)**  
-🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-5-B13)**
+🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Assignment-5-B13/)** 🔗 **[GitHub](https://github.com/arafatgw5-cpu/Assignment-5-B13)**
 
 ---
 
@@ -73,11 +69,15 @@ Clean web app for managing GitHub issues with authentication.
 
 ## 🐍 Contribution Snake
 
-![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arafatgw5-cpu&theme=tokyo-night)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafatgw5-cpu&theme=tokyo-night" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
@@ -95,5 +95,4 @@ Clean web app for managing GitHub issues with authentication.
 
 > **"Code. Learn. Build. Repeat."** 🔥
 
-*Open for Internship & Junior Developer roles*  
-Made with ❤️ in Bangladesh 🇧🇩
+*Open for Internship & Junior Developer roles* Made with ❤️ in Bangladesh 🇧🇩.

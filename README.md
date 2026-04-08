@@ -2,7 +2,8 @@
 ### 🚀 Aspiring Full Stack Web Developer from Bangladesh 🇧🇩
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Modern+Web+Apps;Future+Full+Stack+Dev&center=true&width=500&height=45&color=00BFFF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Enthusiast;Modern+Web+Apps;Future+Full+Stack+Dev&center=true&width=500&height=45&color=00BFFF" alt="Typing SVG" />![1773414997284](https://github.com/user-attachments/assets/3e20d923-a762-466e-aaa1-b3a99c5bd300)
+
 </div>
 
 ---

@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Easin%20Arafat&fontSize=50&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Next.js%20Specialist&descAlignY=50&descSize=25&fontColor=FFFFFF&descColor=FFFFFF" alt="Animated Header" width="100%" />
 </div>
@@ -35,24 +34,26 @@
 
 Hello! I'm **Easin Arafat**, a passionate **Frontend Web Developer** from Bangladesh 🇧🇩 specializing in **React, Next.js, and modern web technologies**. I love building **clean, modern, responsive, and user-friendly** web applications.
 
+<div align="center">
+
 | 📍 Location | 🎓 Experience | 💼 Status | 🕐 Timezone |
 |-------------|---------------|-----------|-------------|
 | Bangladesh 🇧🇩 | 2+ Years Learning | 🟢 Open to Work | GMT+6 |
 
-```yaml
-🎯 Core Skills:
-  - React.js: Hooks, Context, Performance Optimization
-  - Next.js: App Router, Server Components, SSR/SSG
-  - Styling: Tailwind CSS, DaisyUI, Responsive Design
-  - Backend: Node.js, Express.js, MongoDB
-  - Auth: Better Auth, OAuth (Google/GitHub)
+</div>
 
-💡 My Approach:
-  - User-First Design: Every pixel matters
-  - Performance Obsessed: Fast loading = Happy users
-  - Clean Code: Maintainable, scalable, documented
-  - Continuous Learning: Always leveling up
-```
+**🎯 Core Skills:**
+- React.js: Hooks, Context, Performance Optimization
+- Next.js: App Router, Server Components, SSR/SSG
+- Styling: Tailwind CSS, DaisyUI, Responsive Design
+- Backend: Node.js, Express.js, MongoDB
+- Auth: Better Auth, OAuth (Google/GitHub)
+
+**💡 My Approach:**
+- User-First Design: Every pixel matters
+- Performance Obsessed: Fast loading = Happy users
+- Clean Code: Maintainable, scalable, documented
+- Continuous Learning: Always leveling up
 
 ---
 
@@ -70,11 +71,18 @@ Hello! I'm **Easin Arafat**, a passionate **Frontend Web Developer** from Bangla
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header&text=Featured%20Projects&fontSize=30&animation=twinkling&fontAlignY=50&fontColor=FFFFFF" alt="Projects Header" width="100%" />
 </div>
 
-#### 🟠 [SkillSphere — Online Learning Platform](https://skill-sphere-b13-8-94z6.vercel.app)
+### 🟠 [SkillSphere — Online Learning Platform](https://skill-sphere-b13-8-94z6.vercel.app)
 > 🎓 *A modern LMS with authentication, course management & responsive UI*
 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0ea5e9?style=flat-square&logo=tailwind-css)
+<div align="center">
 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0ea5e9?style=flat-square&logo=tailwind-css)
+
+</div>
+
+**✨ Key Features:**
 - 🔐 Better Auth with Google & GitHub OAuth
 - 🛡️ Protected routes & role-based access
 - 📚 Course listing, details & enrollment system
@@ -84,27 +92,42 @@ Hello! I'm **Easin Arafat**, a passionate **Frontend Web Developer** from Bangla
 
 ---
 
-#### 📰 [Dragon News — Modern News Portal](https://dragon-news-blush.vercel.app)
+### 📰 [Dragon News — Modern News Portal](https://dragon-news-blush.vercel.app)
 > 📰 *Dynamic news platform with category-based routing & real-time data*
 
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0ea5e9?style=flat-square&logo=tailwind-css) ![API](https://img.shields.io/badge/-REST_API-orange?style=flat-square)
+<div align="center">
 
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0ea5e9?style=flat-square&logo=tailwind-css)
+![API](https://img.shields.io/badge/-REST_API-orange?style=flat-square)
+
+</div>
+
+**✨ Key Features:**
 - 📰 Dynamic category routes & news details
 - 🔐 User authentication & personalized experience
 - 🌐 API integration for live news data
+- 🎨 Clean, modern UI with responsive design
 
 🔗 **[Live Demo](https://dragon-news-blush.vercel.app)** | **[Source Code](https://github.com/arafatgw5-cpu/Dragon-News)**
 
 ---
 
-#### 🟡 [Relationship Manager App](https://assignment-7-ba-13.vercel.app/) ⭐
+### 🟡 [Relationship Manager App](https://assignment-7-ba-13.vercel.app/) ⭐
 > 💼 *Smart CRM tool for managing relationships, reminders & analytics*
 
-![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0ea5e9?style=flat-square&logo=tailwind-css)
+<div align="center">
 
+![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-0ea5e9?style=flat-square&logo=tailwind-css)
+
+</div>
+
+**✨ Key Features:**
 - 👥 Contact & relationship management
 - ⏰ Automated reminder system
 - 📊 Analytics & insights dashboard
+- 💾 Local storage data persistence
 
 🔗 **[Live Demo](https://assignment-7-ba-13.vercel.app/)** | **[Source Code](https://github.com/arafatgw5-cpu/Assignment-7-BA13)**
 
@@ -113,17 +136,30 @@ Hello! I'm **Easin Arafat**, a passionate **Frontend Web Developer** from Bangla
 <details>
 <summary><b>📦 View More Projects (Click to Expand)</b></summary>
 
-#### 🟣 [Digital Tools Marketplace](https://digitools-assignment-ba13-6.netlify.app/)
+### 🟣 [Digital Tools Marketplace](https://digitools-assignment-ba13-6.netlify.app/)
 > 🛒 *E-commerce platform for digital products & tools*
-🔗 [Live](https://digitools-assignment-ba13-6.netlify.app/) | [Code](https://github.com/arafatgw5-cpu/Assignment-6-B13)
 
-#### 🔵 [GitHub Issues Tracker](https://arafatgw5-cpu.github.io/Assignment-5-B13/)
+**✨ Features:** Product catalog, shopping cart, responsive UI, clean checkout flow
+
+🔗 **[Live Demo](https://digitools-assignment-ba13-6.netlify.app/)** | **[Source Code](https://github.com/arafatgw5-cpu/Assignment-6-B13)**
+
+---
+
+### 🔵 [GitHub Issues Tracker](https://arafatgw5-cpu.github.io/Assignment-5-B13/)
 > 🐝 *Visual issue tracking with GitHub API integration*
-🔗 [Live](https://arafatgw5-cpu.github.io/Assignment-5-B13/) | [Code](https://github.com/arafatgw5-cpu/Assignment-5-B13)
 
-#### 🟢 [Personal Portfolio — Arafat Nexus](https://arafat-nexus-2.vercel.app)
+**✨ Features:** Search & filter, visual status tracking, GitHub API integration, clean UI
+
+🔗 **[Live Demo](https://arafatgw5-cpu.github.io/Assignment-5-B13/)** | **[Source Code](https://github.com/arafatgw5-cpu/Assignment-5-B13)**
+
+---
+
+### 🟢 [Personal Portfolio — Arafat Nexus](https://arafat-nexus-2.vercel.app)
 > 🌟 *Modern portfolio with animations, projects showcase & smooth UX*
-🔗 [Live](https://arafat-nexus-2.vercel.app) | [Code](https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A)
+
+**✨ Features:** Next.js + Tailwind, smooth animations, responsive sections, SEO optimized
+
+🔗 **[Live Demo](https://arafat-nexus-2.vercel.app)** | **[Source Code](https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A)**
 
 </details>
 
@@ -171,6 +207,8 @@ Hello! I'm **Easin Arafat**, a passionate **Frontend Web Developer** from Bangla
   <img src="https://media.giphy.com/media/3o7aCRZbCzQKqJNzWw/giphy.gif" alt="Learning Animation" width="200" />
 </div>
 
+<div align="center">
+
 | Technology | Progress | Next Milestone |
 |------------|----------|----------------|
 | **Next.js App Router** | ████████░░ 80% | Server Actions Mastery |
@@ -178,6 +216,8 @@ Hello! I'm **Easin Arafat**, a passionate **Frontend Web Developer** from Bangla
 | **Node.js & Express** | █████░░░░░ 50% | Build Full REST API |
 | **MongoDB** | ██████░░░░ 60% | Aggregation & Indexing |
 | **Better Auth** | ████░░░░░░ 40% | OAuth Implementation |
+
+</div>
 
 ---
 
@@ -188,10 +228,12 @@ Hello! I'm **Easin Arafat**, a passionate **Frontend Web Developer** from Bangla
 </div>
 
 <div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=💼_Connect)](https://www.linkedin.com/in/easin-arafat-2147473a9/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&label=🌐_Visit)](https://arafat-nexus-2.vercel.app)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=📧_Message)](mailto:arafatgw5@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&label=💻_Follow)](https://github.com/arafatgw5-cpu)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=💼_Connect)](https://www.linkedin.com/in/easin-arafat-2147473a9/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&label=🌐_Visit)](https://arafat-nexus-2.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=📧_Message)](mailto:arafatgw5@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&label=💻_Follow)](https://github.com/arafatgw5-cpu)
+
 </div>
 
 ---
@@ -202,6 +244,8 @@ Hello! I'm **Easin Arafat**, a passionate **Frontend Web Developer** from Bangla
   <img src="https://media.giphy.com/media/2HRz8hpYqfDmE/giphy.gif" alt="Working Animation" width="150" />
 </div>
 
+<div align="center">
+
 | Role | Level | Remote | Start |
 |------|-------|--------|-------|
 | Frontend Developer Intern | Entry | ✅ | Immediate |
@@ -209,34 +253,44 @@ Hello! I'm **Easin Arafat**, a passionate **Frontend Web Developer** from Bangla
 | Next.js Developer | 1-3 Years | ✅ | Flexible |
 | Full Stack Intern | Entry | ✅ | Immediate |
 
+</div>
+
 ---
 
 ## 🔥 My Motto
 
 <div align="center">
-  <blockquote>
-    <h3>✨ "Code. Learn. Build. Repeat." 🚀</h3>
-    <p><em>"Every bug is a lesson, every project is growth, and every line of code brings me closer to mastery."</em></p>
-  </blockquote>
-  <img src="https://media.giphy.com/media/hv46k34c677FK/giphy.gif" alt="Coding GIF" width="300" />
+
+> ### ✨ "Code. Learn. Build. Repeat." 🚀
+> 
+> *"Every bug is a lesson, every project is growth, and every line of code brings me closer to mastery."*
+
+<img src="https://media.giphy.com/media/hv46k34c677FK/giphy.gif" alt="Coding GIF" width="300" />
+
 </div>
 
 ---
 
 ## 🧠 Fun Facts
 
+<div align="center">
+
 | ☕ Tea Lover | 🎧 Lo-fi Beats | 🌙 Night Owl | ⌨️ Keyboard Ninja |
 |-------------|----------------|--------------|-------------------|
 | Code + Chai = ❤️ | Beats help me focus | Best ideas at night | Vim shortcuts master |
+
+</div>
 
 ---
 
 ## 📊 Profile Analytics
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=arafatgw5-cpu&label=👁️_Profile_Views&color=3B82F6&style=for-the-badge&abbreviated=true)
-  ![GitHub Followers](https://img.shields.io/github/followers/arafatgw5-cpu?label=🤝_Followers&style=for-the-badge&logo=github&color=3B82F6)
-  ![GitHub Stars](https://img.shields.io/github/stars/arafatgw5-cpu?label=⭐_Stars&style=for-the-badge&logo=github&color=F59E0B)
+
+![Profile Views](https://komarev.com/ghpvc/?username=arafatgw5-cpu&label=👁️_Profile_Views&color=3B82F6&style=for-the-badge&abbreviated=true)
+![GitHub Followers](https://img.shields.io/github/followers/arafatgw5-cpu?label=🤝_Followers&style=for-the-badge&logo=github&color=3B82F6)
+![GitHub Stars](https://img.shields.io/github/stars/arafatgw5-cpu?label=⭐_Stars&style=for-the-badge&logo=github&color=F59E0B)
+
 </div>
 
 ---
@@ -244,21 +298,27 @@ Hello! I'm **Easin Arafat**, a passionate **Frontend Web Developer** from Bangla
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
 
 <div align="center">
-  <h2>🙏 Thank You For Visiting!</h2>
-  <h3>Made with ❤️ & ☕ by <strong>Easin Arafat</strong></h3>
-  <p><em>"If my work inspired you, don't forget to ⭐ this profile!"</em></p>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=30&animation=twinkling&fontAlignY=50&fontColor=FFFFFF&desc=Let's%20Build%20Something%20Amazing&descAlignY=65&descSize=20" alt="Animated Footer" width="100%" />
-</div>
-```
 
+## 🙏 Thank You For Visiting!
+
+### Made with ❤️ & ☕ by **Easin Arafat**
+
+> *"If my work inspired you, don't forget to ⭐ this profile!"*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=30&animation=twinkling&fontAlignY=50&fontColor=FFFFFF&desc=Let's%20Build%20Something%20Amazing&descAlignY=65&descSize=20" alt="Animated Footer" width="100%" />
+
+</div>

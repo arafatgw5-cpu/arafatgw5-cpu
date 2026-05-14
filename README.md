@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:1D4ED8,70:7C3AED,100:020617&text=Easin%20Arafat&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN%20Stack%20Learner&descSize=20&descAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:1D4ED8,70:7C3AED,100:020617&text=Easin%20Arafat&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN%20Stack%20Learner&descSize=20&descAlignY=55&animation=twinkling" alt="Header" />
 
 </div>
 
@@ -56,7 +56,7 @@ My goal is to become a strong developer who can build real-world production-leve
 - 🌐 REST API integration  
 - 🗄️ MongoDB and Express.js backend  
 - 🚀 Deployment with Vercel and Netlify  
-- 📚 Improving problem solving and clean code skills  
+- 📚 Problem solving and clean code practice  
 
 <br clear="right"/>
 
@@ -275,11 +275,7 @@ A modern personal portfolio website with project showcase and smooth user experi
 <br/><br/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arafatgw5-cpu&theme=tokyonight" alt="GitHub Stats" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arafatgw5-cpu&theme=tokyonight&utcOffset=6" alt="Productive Time" />
-
-<br/><br/>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafatgw5-cpu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=arafatgw5-cpu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -357,20 +353,6 @@ A modern personal portfolio website with project showcase and smooth user experi
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ## ✨ Motto
@@ -381,6 +363,6 @@ A modern personal portfolio website with project showcase and smooth user experi
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:020617,35:7C3AED,70:2563EB,100:020617&section=footer&text=Thanks%20For%20Visiting!&fontColor=FFFFFF&fontSize=38&fontAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:020617,35:7C3AED,70:2563EB,100:020617&section=footer&text=Thanks%20For%20Visiting!&fontColor=FFFFFF&fontSize=38&fontAlignY=55&animation=twinkling" alt="Footer" />
 
 </div>

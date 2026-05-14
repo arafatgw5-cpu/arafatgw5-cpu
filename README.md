@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,35:1E40AF,70:7C3AED,100:020617&text=Easin%20Arafat&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN%20Stack%20Learner&descSize=20&descAlignY=55&animation=twinkling" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:020617,35:1D4ED8,70:7C3AED,100:020617&text=Easin%20Arafat&fontColor=FFFFFF&fontSize=66&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN%20Stack%20Learner&descSize=21&descAlignY=55&animation=twinkling" alt="Easin Arafat Banner" />
 
 </div>
 
@@ -9,9 +9,9 @@
 # 👋 Hi, I'm Easin Arafat
 
 ### 🚀 Aspiring Full Stack Developer from Bangladesh 🇧🇩  
-### 💻 I build clean, responsive, and modern web applications
+### 💻 Building clean, responsive, and modern web experiences
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&height=60&lines=Frontend+Developer;React+%26+Next.js+Developer;Next.js+App+Router+Learner;MERN+Stack+Developer;Clean+UI+%2B+Responsive+Design;Open+for+Internships+%26+Junior+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&height=60&lines=Frontend+Developer;React+%26+Next.js+Developer;MERN+Stack+Learner;Clean+UI+%2B+Responsive+Design;Authentication+%26+Backend+Integration;Open+for+Internships+%26+Junior+Roles" alt="Typing Animation" />
 
 <br/>
 
@@ -40,23 +40,23 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Coding GIF" />
 
-Hi! I'm **Easin Arafat**, an aspiring **Full Stack / Frontend Web Developer** from Bangladesh.  
-I enjoy turning ideas into **modern, responsive, user-friendly, and performance-focused** web applications.
+Hi, I'm **Easin Arafat**, an aspiring **Full Stack / Frontend Web Developer** from Bangladesh.  
+I enjoy transforming ideas into **modern, responsive, performance-focused, and user-friendly** web applications.
 
 I mainly work with **React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and authentication systems**.  
-My goal is to become a strong developer who can build real-world, production-ready web applications with clean code and great user experience.
+My goal is to become a strong developer who can build real-world production-ready applications with clean code, strong UI, and smooth user experience.
 
 ### 🎯 Current Focus
 
-- ⚡ Building projects with React.js and Next.js App Router  
-- 🎨 Designing modern UI with Tailwind CSS and DaisyUI  
-- 🔐 Implementing authentication with Better Auth and OAuth  
-- 🌐 Working with REST APIs and dynamic data  
-- 🗄️ Building backend APIs with Node.js, Express.js, and MongoDB  
-- 🚀 Deploying projects on Vercel and Netlify  
-- 📚 Improving problem solving, debugging, and clean code skills  
+- ⚡ Building modern projects with **React.js** and **Next.js App Router**
+- 🎨 Designing clean UI with **Tailwind CSS** and **DaisyUI**
+- 🔐 Implementing authentication with **Better Auth**, Google, and GitHub OAuth
+- 🌐 Working with REST APIs and dynamic data
+- 🗄️ Building backend APIs with **Node.js**, **Express.js**, and **MongoDB**
+- 🚀 Deploying projects on **Vercel** and **Netlify**
+- 📚 Improving debugging, problem solving, and clean code skills
 
 <br clear="right"/>
 
@@ -66,7 +66,7 @@ My goal is to become a strong developer who can build real-world, production-rea
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,figma,vscode,vercel,netlify" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,figma,vscode,vercel,netlify" alt="Tech Stack Icons" />
 
 </div>
 
@@ -81,7 +81,7 @@ My goal is to become a strong developer who can build real-world, production-rea
 ![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-020617?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=16A34A)
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=22C55E)
 ![Express.js](https://img.shields.io/badge/Express.js-020617?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=22C55E)
 ![Firebase](https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=F59E0B)
@@ -102,23 +102,23 @@ My goal is to become a strong developer who can build real-world, production-rea
 
 A modern online learning platform with authentication, course listing, protected pages, and responsive UI.
 
-**Tech Used:**  
+**Tech Stack**  
 `Next.js` `Tailwind CSS` `DaisyUI` `Better Auth` `MongoDB`
 
-**Key Features**
-- 🔐 Authentication with Better Auth  
-- 📚 Course listing and course details  
-- 🛡️ Protected route system  
-- 📱 Fully responsive UI  
-- 🎨 Clean modern design  
+**Highlights**
+- 🔐 Better Auth authentication system
+- 📚 Course listing and course details
+- 🛡️ Protected route system
+- 📱 Fully responsive layout
+- 🎨 Clean and modern interface
 
 <br/>
 
 <a href="https://skill-sphere-b13-8-94z6.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="SkillSphere Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/SkillSphere-B13_8">
-  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="SkillSphere Source Code" />
 </a>
 
 </td>
@@ -126,25 +126,25 @@ A modern online learning platform with authentication, course listing, protected
 
 ### 📰 Dragon News — Modern News Portal
 
-A modern news website with category-based routing, API data fetching, and responsive layout.
+A dynamic news platform with category-based routing, API data fetching, and responsive layout.
 
-**Tech Used:**  
+**Tech Stack**  
 `React` `Next.js` `Tailwind CSS` `REST API`
 
-**Key Features**
-- 📰 Dynamic category routes  
-- 🌐 News API integration  
-- 🔍 News details page  
-- 🎨 Clean responsive design  
-- ⚡ Fast user experience  
+**Highlights**
+- 📰 Dynamic category pages
+- 🌐 News API integration
+- 🔍 News details route
+- 🎨 Clean responsive design
+- ⚡ Fast and smooth user experience
 
 <br/>
 
 <a href="https://dragon-news-blush.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Dragon News Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/Dragon-News">
-  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Dragon News Source Code" />
 </a>
 
 </td>
@@ -155,25 +155,25 @@ A modern news website with category-based routing, API data fetching, and respon
 
 ### 🟡 Relationship Manager App
 
-A smart relationship management app for managing contacts, reminders, and analytics.
+A smart relationship management app for managing contacts, reminders, and simple analytics.
 
-**Tech Used:**  
+**Tech Stack**  
 `React` `Tailwind CSS` `Local Storage`
 
-**Key Features**
-- 👥 Contact management  
-- ⏰ Reminder system  
-- 📊 Analytics dashboard  
-- 💾 Local storage support  
-- 📱 Responsive design  
+**Highlights**
+- 👥 Contact management
+- ⏰ Reminder system
+- 📊 Analytics dashboard
+- 💾 Local storage data persistence
+- 📱 Responsive design
 
 <br/>
 
 <a href="https://assignment-7-ba-13.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Relationship Manager Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/Assignment-7-BA13">
-  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Relationship Manager Source Code" />
 </a>
 
 </td>
@@ -181,25 +181,25 @@ A smart relationship management app for managing contacts, reminders, and analyt
 
 ### 🟣 Digital Tools Marketplace
 
-A clean e-commerce style marketplace for digital products and tools.
+A clean e-commerce style marketplace for digital tools and online products.
 
-**Tech Used:**  
+**Tech Stack**  
 `React` `Tailwind CSS` `Netlify`
 
-**Key Features**
-- 🛒 Product catalog  
-- 🧾 Product details  
-- 📱 Responsive layout  
-- 🎯 Clean shopping UI  
-- ⚡ Fast performance  
+**Highlights**
+- 🛒 Product catalog
+- 🧾 Product details
+- 📱 Responsive layout
+- 🎯 Clean shopping UI
+- ⚡ Fast performance
 
 <br/>
 
 <a href="https://digitools-assignment-ba13-6.netlify.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Digital Tools Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/Assignment-6-B13">
-  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Digital Tools Source Code" />
 </a>
 
 </td>
@@ -212,22 +212,22 @@ A clean e-commerce style marketplace for digital products and tools.
 
 A visual issue tracking project with GitHub API integration and clean UI.
 
-**Tech Used:**  
+**Tech Stack**  
 `HTML` `CSS` `JavaScript` `GitHub API`
 
-**Key Features**
-- 🔍 Search and filter  
-- 🐛 Issue tracking  
-- 🌐 GitHub API integration  
-- 🎨 Clean UI  
+**Highlights**
+- 🔍 Search and filter system
+- 🐛 Issue tracking interface
+- 🌐 GitHub API integration
+- 🎨 Clean and simple UI
 
 <br/>
 
 <a href="https://arafatgw5-cpu.github.io/Assignment-5-B13/">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Issues Tracker Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/Assignment-5-B13">
-  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues Tracker Source Code" />
 </a>
 
 </td>
@@ -235,24 +235,24 @@ A visual issue tracking project with GitHub API integration and clean UI.
 
 ### 🟢 Personal Portfolio — Arafat Nexus
 
-A modern personal portfolio website with project showcase and smooth user experience.
+A modern personal portfolio website with smooth sections and project showcase.
 
-**Tech Used:**  
+**Tech Stack**  
 `Next.js` `Tailwind CSS` `Vercel`
 
-**Key Features**
-- 🌟 Modern portfolio design  
-- 📂 Project showcase  
-- 📱 Fully responsive  
-- 🚀 Deployed on Vercel  
+**Highlights**
+- 🌟 Modern portfolio design
+- 📂 Project showcase
+- 📱 Fully responsive layout
+- 🚀 Deployed on Vercel
 
 <br/>
 
 <a href="https://arafat-nexus-2.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A">
-  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Source Code" />
 </a>
 
 </td>
@@ -319,11 +319,11 @@ A modern personal portfolio website with project showcase and smooth user experi
 
 <div align="center">
 
-| Topic | Progress | Goal |
-|------|----------|------|
+| Topic | Progress | Next Goal |
+|------|----------|-----------|
 | **Next.js App Router** | ████████░░ 80% | Server Actions & Advanced Routing |
 | **TypeScript** | ██████░░░░ 60% | Type-safe full stack apps |
-| **Node.js + Express** | ██████░░░░ 60% | Strong REST API building |
+| **Node.js + Express** | ██████░░░░ 60% | Strong REST API development |
 | **MongoDB** | ██████░░░░ 60% | Aggregation & Indexing |
 | **Authentication** | █████░░░░░ 50% | Better Auth + OAuth Mastery |
 
@@ -335,8 +335,8 @@ A modern personal portfolio website with project showcase and smooth user experi
 
 <div align="center">
 
-| Role | Level | Remote | Status |
-|------|-------|--------|--------|
+| Role | Level | Remote | Availability |
+|------|-------|--------|--------------|
 | Frontend Developer Intern | Entry | ✅ | Available |
 | Junior React Developer | Entry | ✅ | Available |
 | Next.js Developer | Junior | ✅ | Available |
@@ -373,10 +373,10 @@ A modern personal portfolio website with project showcase and smooth user experi
 
 ### “Code. Learn. Build. Repeat.”
 
-**Every bug is a lesson, every project is growth, and every line of code brings me closer to mastery.**
+**Every bug teaches me something, every project makes me stronger, and every line of code brings me closer to mastery.**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:020617,35:7C3AED,70:2563EB,100:020617&section=footer&text=Thanks%20For%20Visiting!&fontColor=FFFFFF&fontSize=40&fontAlignY=55&animation=twinkling" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,35:7C3AED,70:2563EB,100:020617&section=footer&text=Thanks%20For%20Visiting!&fontColor=FFFFFF&fontSize=42&fontAlignY=55&animation=twinkling" alt="Footer" />
 
 </div>

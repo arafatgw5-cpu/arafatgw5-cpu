@@ -32,7 +32,7 @@ I love building clean, modern, responsive, and user-friendly web applications us
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,ts,nodejs,express,mongodb,git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,ts,nodejs,express,mongodb,git,github,figma,vscode" alt="Tech Stack" />
 
 </div>
 
@@ -53,14 +53,6 @@ A modern news portal project with dynamic category routes, news details page, au
 
 🔗 **Live:** https://dragon-news-blush.vercel.app  
 🔗 **Code:** https://github.com/arafatgw5-cpu/Dragon-News  
-
----
-
-### 📚 3D Book Project  
-A modern book showcase project with clean layout, responsive design, and smooth user experience.
-
-🔗 **Live:** https://3-d-project-six.vercel.app/books  
-🔗 **Code:** https://github.com/arafatgw5-cpu/3D-Project  
 
 ---
 
@@ -100,9 +92,9 @@ A modern personal portfolio website built with Next.js, Tailwind CSS, responsive
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
 
-<img src="https://streak-stats.demolab.com/?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://streak-stats.demolab.com/?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak" />
 
 </div>
 
@@ -134,19 +126,19 @@ A modern personal portfolio website built with Next.js, Tailwind CSS, responsive
 <div align="center">
 
 <a href="https://www.linkedin.com/in/easin-arafat-2147473a9/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://arafat-nexus-2.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="mailto:arafatgw5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/arafatgw5-cpu">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -171,5 +163,18 @@ I am currently open to:
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution snake animation"
+      src="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </div>

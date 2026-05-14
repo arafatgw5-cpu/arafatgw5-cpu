@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:1D4ED8,70:7C3AED,100:020617&text=Easin%20Arafat&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN%20Stack%20Learner&descSize=20&descAlignY=55&animation=twinkling" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=310&color=0:020617,35:1E40AF,70:7C3AED,100:020617&text=Easin%20Arafat&fontColor=FFFFFF&fontSize=64&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN%20Stack%20Learner&descSize=20&descAlignY=55&animation=twinkling" alt="Header" />
 
 </div>
 
@@ -9,23 +9,23 @@
 # 👋 Hi, I'm Easin Arafat
 
 ### 🚀 Aspiring Full Stack Developer from Bangladesh 🇧🇩  
-### 💻 React & Next.js Developer | Building Modern Web Experiences
+### 💻 I build clean, responsive, and modern web applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Frontend+Developer;React+%26+Next.js+Developer;Next.js+App+Router+Learner;MERN+Stack+Developer;Clean+UI+%2B+Responsive+Design;Open+for+Internships+%26+Junior+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&height=60&lines=Frontend+Developer;React+%26+Next.js+Developer;Next.js+App+Router+Learner;MERN+Stack+Developer;Clean+UI+%2B+Responsive+Design;Open+for+Internships+%26+Junior+Roles" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://arafat-nexus-2.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-020617?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2563EB" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/easin-arafat-2147473a9/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-020617?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
 </a>
 <a href="mailto:arafatgw5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Message-020617?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
 </a>
 <a href="https://github.com/arafatgw5-cpu">
-  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
 </a>
 
 <br/><br/>
@@ -43,20 +43,20 @@
 <img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
 Hi! I'm **Easin Arafat**, an aspiring **Full Stack / Frontend Web Developer** from Bangladesh.  
-I love building **clean, responsive, modern, and user-friendly** web applications.
+I enjoy turning ideas into **modern, responsive, user-friendly, and performance-focused** web applications.
 
-I mainly work with **React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and Authentication systems**.  
-My goal is to become a strong developer who can build real-world production-level web applications.
+I mainly work with **React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and authentication systems**.  
+My goal is to become a strong developer who can build real-world, production-ready web applications with clean code and great user experience.
 
 ### 🎯 Current Focus
 
-- ⚡ React.js and Next.js App Router  
-- 🎨 Modern UI with Tailwind CSS and DaisyUI  
-- 🔐 Authentication with Better Auth and OAuth  
-- 🌐 REST API integration  
-- 🗄️ MongoDB and Express.js backend  
-- 🚀 Deployment with Vercel and Netlify  
-- 📚 Problem solving and clean code practice  
+- ⚡ Building projects with React.js and Next.js App Router  
+- 🎨 Designing modern UI with Tailwind CSS and DaisyUI  
+- 🔐 Implementing authentication with Better Auth and OAuth  
+- 🌐 Working with REST APIs and dynamic data  
+- 🗄️ Building backend APIs with Node.js, Express.js, and MongoDB  
+- 🚀 Deploying projects on Vercel and Netlify  
+- 📚 Improving problem solving, debugging, and clean code skills  
 
 <br clear="right"/>
 
@@ -74,19 +74,19 @@ My goal is to become a strong developer who can build real-world production-leve
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-2563EB?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
-![Node.js](https://img.shields.io/badge/Node.js-16A34A?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-15803D?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=flat-square&logo=firebase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-0891B2?style=flat-square&logo=netlify&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-020617?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=node.js&logoColor=16A34A)
+![Express.js](https://img.shields.io/badge/Express.js-020617?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=for-the-badge&logo=mongodb&logoColor=22C55E)
+![Firebase](https://img.shields.io/badge/Firebase-020617?style=for-the-badge&logo=firebase&logoColor=F59E0B)
+![Vercel](https://img.shields.io/badge/Vercel-020617?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-020617?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
 </div>
 
@@ -118,7 +118,7 @@ A modern online learning platform with authentication, course listing, protected
   <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/SkillSphere-B13_8">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
 
 </td>
@@ -144,7 +144,7 @@ A modern news website with category-based routing, API data fetching, and respon
   <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/Dragon-News">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
 
 </td>
@@ -173,7 +173,7 @@ A smart relationship management app for managing contacts, reminders, and analyt
   <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/Assignment-7-BA13">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
 
 </td>
@@ -199,7 +199,7 @@ A clean e-commerce style marketplace for digital products and tools.
   <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/Assignment-6-B13">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
 
 </td>
@@ -227,7 +227,7 @@ A visual issue tracking project with GitHub API integration and clean UI.
   <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/Assignment-5-B13">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
 
 </td>
@@ -252,7 +252,7 @@ A modern personal portfolio website with project showcase and smooth user experi
   <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
 </a>
 <a href="https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A">
-  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+  <img src="https://img.shields.io/badge/Source_Code-020617?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
 </a>
 
 </td>
@@ -301,6 +301,20 @@ A modern personal portfolio website with project showcase and smooth user experi
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## 📚 Currently Learning
 
 <div align="center">
@@ -337,16 +351,16 @@ A modern personal portfolio website with project showcase and smooth user experi
 <div align="center">
 
 <a href="https://arafat-nexus-2.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-020617?style=for-the-badge&logo=vercel&logoColor=white&labelColor=2563EB" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/easin-arafat-2147473a9/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-020617?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
 </a>
 <a href="mailto:arafatgw5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Message-020617?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
 </a>
 <a href="https://github.com/arafatgw5-cpu">
-  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-020617?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" alt="GitHub" />
 </a>
 
 </div>
@@ -355,14 +369,14 @@ A modern personal portfolio website with project showcase and smooth user experi
 
 <div align="center">
 
-## ✨ Motto
+## ✨ Developer Motto
 
 ### “Code. Learn. Build. Repeat.”
 
-**Every bug is a lesson, every project is growth, and every line of code makes me better.**
+**Every bug is a lesson, every project is growth, and every line of code brings me closer to mastery.**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:020617,35:7C3AED,70:2563EB,100:020617&section=footer&text=Thanks%20For%20Visiting!&fontColor=FFFFFF&fontSize=38&fontAlignY=55&animation=twinkling" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:020617,35:7C3AED,70:2563EB,100:020617&section=footer&text=Thanks%20For%20Visiting!&fontColor=FFFFFF&fontSize=40&fontAlignY=55&animation=twinkling" alt="Footer" />
 
 </div>

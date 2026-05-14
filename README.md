@@ -1,198 +1,293 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3e20d923-a762-466e-aaa1-b3a99c5bd300" alt="Banner" width="100%" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:2563EB,100:7C3AED&text=Easin%20Arafat&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN%20Learner&descSize=20&descAlignY=55&animation=twinkling" />
+
 </div>
+
+<div align="center">
+
+# 👋 Hi, I'm Easin Arafat
+
+### 🚀 Aspiring Full Stack Developer from Bangladesh 🇧🇩  
+### 💻 React & Next.js Developer | Building Modern Web Apps
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Frontend+Developer;React+%26+Next.js+Developer;MERN+Stack+Learner;Clean+UI+%2B+Responsive+Design;Open+for+Internships+%26+Junior+Roles" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Easin+Arafat+%F0%9F%91%8B;Frontend+Web+Developer;Next.js+Enthusiast;MERN+Stack+Learner;Building+Modern+Web+Apps;Open+for+Internships&center=true&width=750&height=45&color=3B82F6&font=Fira+Code&pause=1000" alt="Typing SVG" />
-  <br/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving hand">
-</div>
+<a href="https://arafat-nexus-2.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/easin-arafat-2147473a9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arafatgw5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/arafatgw5-cpu">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/easin-arafat-2147473a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://arafat-nexus-2.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:arafatgw5@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/arafatgw5-cpu"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=arafatgw5-cpu&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/arafatgw5-cpu?label=Followers&style=for-the-badge&logo=github&color=0ea5e9" />
+<img src="https://img.shields.io/github/stars/arafatgw5-cpu?label=Stars&style=for-the-badge&logo=github&color=f59e0b" />
 
-<br/>
-
-<div align="center">
-  <!-- GitHub Stars & Profile Views -->
-  <a href="https://github.com/arafatgw5-cpu/arafatgw5-cpu">
-    <img src="https://img.shields.io/github/stars/arafatgw5-cpu?style=social" alt="GitHub stars" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=arafatgw5-cpu&color=blue&style=flat-square" alt="Profile views" />
 </div>
 
 ---
 
-### 🧑‍💻 A Quick Dev Quote
+## 🧑‍💻 About Me
+
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding Animation" />
+
+Hi! I'm **Easin Arafat**, an aspiring **Full Stack / Frontend Web Developer** from Bangladesh.  
+I enjoy building clean, responsive, modern, and user-friendly web applications using **React, Next.js, Tailwind CSS, Node.js, Express.js, and MongoDB**.
+
+### 🎯 What I Focus On
+
+- ⚡ Building fast and responsive web applications  
+- 🎨 Creating clean and modern UI designs  
+- 🔐 Implementing authentication and protected routes  
+- 🌐 Working with REST APIs and MongoDB  
+- 📚 Learning advanced Next.js, Backend, and Full Stack development  
+
+<br clear="right"/>
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,figma,vscode,vercel,netlify" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwind-css&logoColor=38BDF8)
+![Node.js](https://img.shields.io/badge/Node.js-16A34A?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-15803D?style=flat-square&logo=mongodb&logoColor=white)
+
 </div>
 
 ---
 
-## 🧠 About Me
+## 🌟 Featured Projects
 
-I'm a passionate **Frontend Web Developer** and **MERN Stack Learner** from Bangladesh 🇧🇩, dedicated to crafting clean, modern, and responsive web experiences. I specialize in **React**, **Next.js**, and **Tailwind CSS**, and I'm actively expanding into backend technologies to become a well-rounded full‑stack developer.
+<table>
+<tr>
+<td width="50%">
 
-- 💡 I love turning ideas into **beautiful, user-friendly interfaces**
-- 🔭 Currently building projects with **Next.js App Router & Better Auth**
-- 🌱 Learning **TypeScript, Node.js, Express, and MongoDB** in depth
-- 🎯 Goal: Land a **Junior Frontend / Full‑Stack Developer** role
-- 📫 Reach me at: **arafatgw5@gmail.com**
-- ⚡ Fun fact: When I'm not coding, you'll find me exploring new tech trends or sipping tea ☕
+### 🟠 SkillSphere — Online Learning Platform
+
+A modern online learning platform with authentication, course listing, protected pages, and responsive UI.
+
+**Tech Used:** Next.js, Tailwind CSS, DaisyUI, Better Auth, MongoDB
+
+**Key Features**
+- 🔐 Better Auth authentication  
+- 📚 Course listing and details page  
+- 🛡️ Protected route system  
+- 📱 Fully responsive UI  
+
+<a href="https://skill-sphere-b13-8-94z6.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/arafatgw5-cpu/SkillSphere-B13_8">
+  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### 📰 Dragon News — News Portal
+
+A modern news website with category-based routing, API data fetching, and clean responsive layout.
+
+**Tech Used:** React, Next.js, Tailwind CSS, API
+
+**Key Features**
+- 📰 Dynamic category routes  
+- 🌐 News API integration  
+- 🔍 News details page  
+- 🎨 Clean responsive design  
+
+<a href="https://dragon-news-blush.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/arafatgw5-cpu/Dragon-News">
+  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🟡 Relationship Manager App
+
+A smart relationship management app with contacts, reminders, and analytics features.
+
+**Tech Used:** React, Tailwind CSS, Local Storage
+
+**Key Features**
+- 👥 Contact management  
+- ⏰ Reminder system  
+- 📊 Analytics dashboard  
+- 💾 Local storage support  
+
+<a href="https://assignment-7-ba-13.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/arafatgw5-cpu/Assignment-7-BA13">
+  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### 🟣 Digital Tools Marketplace
+
+A clean e-commerce style marketplace for digital tools and products.
+
+**Tech Used:** React, Tailwind CSS, Netlify
+
+**Key Features**
+- 🛒 Product catalog  
+- 🧾 Product details  
+- 📱 Responsive layout  
+- 🎯 Clean shopping UI  
+
+<a href="https://digitools-assignment-ba13-6.netlify.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+<a href="https://github.com/arafatgw5-cpu/Assignment-6-B13">
+  <img src="https://img.shields.io/badge/Source_Code-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://streak-stats.demolab.com?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arafatgw5-cpu&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arafatgw5-cpu&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=arafatgw5-cpu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Currently Learning
 
 <div align="center">
 
-| **Frontend** | **Backend & Tools** | **Currently Learning** |
-|:-----------:|:-----------------:|:--------------------:|
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts" alt="Frontend" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,figma,vscode" alt="Backend & Tools" /> | <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,mongodb" alt="Learning" /> |
+| Topic | Status | Goal |
+|------|--------|------|
+| **Next.js App Router** | ████████░░ 80% | Server Actions & Advanced Routing |
+| **TypeScript** | ██████░░░░ 60% | Type-safe full stack apps |
+| **Node.js + Express** | ██████░░░░ 60% | Strong REST API building |
+| **MongoDB** | ██████░░░░ 60% | Aggregation & indexing |
+| **Authentication** | █████░░░░░ 50% | Better Auth + OAuth mastery |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🟠 SkillSphere</h3>
-      <p align="center">Online Learning Platform<br/>Next.js • Better Auth • MongoDB • Tailwind • DaisyUI</p>
-      <p align="center">
-        <a href="https://skill-sphere-b13-8-94z6.vercel.app" target="_blank">🔗 Live</a> •
-        <a href="https://github.com/arafatgw5-cpu/SkillSphere-B13_8" target="_blank">💻 Code</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📰 Dragon News</h3>
-      <p align="center">Dynamic News Portal<br/>Next.js • API Integration • Authentication • Responsive</p>
-      <p align="center">
-        <a href="https://dragon-news-blush.vercel.app" target="_blank">🔗 Live</a> •
-        <a href="https://github.com/arafatgw5-cpu/Dragon-News" target="_blank">💻 Code</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🟡 Relationship Manager</h3>
-      <p align="center">Smart Contact & Reminder Manager<br/>Next.js • Analytics • Clean UI</p>
-      <p align="center">
-        <a href="https://assignment-7-ba-13.vercel.app/" target="_blank">🔗 Live</a> •
-        <a href="https://github.com/arafatgw5-cpu/Assignment-7-BA13" target="_blank">💻 Code</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🟣 Digital Tools Marketplace</h3>
-      <p align="center">E‑commerce style digital products<br/>React • Tailwind • Responsive Design</p>
-      <p align="center">
-        <a href="https://digitools-assignment-ba13-6.netlify.app/" target="_blank">🔗 Live</a> •
-        <a href="https://github.com/arafatgw5-cpu/Assignment-6-B13" target="_blank">💻 Code</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔵 GitHub Issues Tracker</h3>
-      <p align="center">Search & Visualize GitHub Issues<br/>JavaScript • API • Responsive</p>
-      <p align="center">
-        <a href="https://arafatgw5-cpu.github.io/Assignment-5-B13/" target="_blank">🔗 Live</a> •
-        <a href="https://github.com/arafatgw5-cpu/Assignment-5-B13" target="_blank">💻 Code</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🟢 Arafat Nexus Portfolio</h3>
-      <p align="center">Personal Portfolio Website<br/>Next.js • Tailwind CSS • Smooth Animations</p>
-      <p align="center">
-        <a href="https://arafat-nexus-2.vercel.app" target="_blank">🔗 Live</a> •
-        <a href="https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A" target="_blank">💻 Code</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats & Activity
+## 💼 Open To Work
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&theme=tokyonight&hide_border=true" />
+
+| Role | Level | Remote | Status |
+|------|-------|--------|--------|
+| Frontend Developer Intern | Entry | ✅ | Available |
+| Junior React Developer | Entry | ✅ | Available |
+| Next.js Developer | Junior | ✅ | Available |
+| Full Stack Intern | Entry | ✅ | Available |
+
 </div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=arafatgw5-cpu&theme=tokyonight&hide_border=true" />
+
+<a href="https://arafat-nexus-2.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/easin-arafat-2147473a9/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arafatgw5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/arafatgw5-cpu">
+  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arafatgw5-cpu&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
-
----
-
-## 📚 What I'm Currently Learning
-
-- Advanced JavaScript & ES6+
-- React.js (Server Components, Suspense)
-- Next.js App Router & Middleware
-- TypeScript for type‑safe development
-- Node.js, Express.js, and REST API design
-- MongoDB & Mongoose
-- Authentication with Better Auth, NextAuth
-- UI/UX principles for better design
-
----
-
-## 💼 Open to Opportunities
-
-I'm actively looking for:
-
-- **Frontend Developer Internship**
-- **Junior React / Next.js Developer** role
-- **Full‑Stack Developer Internship** (MERN)
-
-If you're looking for a dedicated, fast‑learning developer who loves clean code and great UI, let's connect!
-
----
-
-## 🔥 My Motto
-
-> **"Code. Learn. Build. Repeat."**  
-> Every day is a chance to improve, one commit at a time.
 
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arafatgw5-cpu/arafatgw5-cpu/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+
+## ✨ Motto
+
+### “Code. Learn. Build. Repeat.”
+
+**Every bug is a lesson, every project is growth, and every line of code makes me better.**
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:06B6D4&height=100&section=footer" alt="Wave Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7C3AED,50:2563EB,100:0F172A&section=footer&text=Thanks%20For%20Visiting!&fontColor=FFFFFF&fontSize=35&animation=twinkling" />
+
 </div>

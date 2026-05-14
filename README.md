@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,45:2563EB,100:7C3AED&text=Easin%20Arafat&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN%20Stack%20Learner&descSize=20&descAlignY=55&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,35:1D4ED8,70:7C3AED,100:020617&text=Easin%20Arafat&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20MERN%20Stack%20Learner&descSize=20&descAlignY=55&animation=twinkling" />
 
 </div>
 
@@ -11,21 +11,21 @@
 ### 🚀 Aspiring Full Stack Developer from Bangladesh 🇧🇩  
 ### 💻 React & Next.js Developer | Building Modern Web Experiences
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Frontend+Developer;React+%26+Next.js+Developer;Next.js+App+Router+Learner;MERN+Stack+Developer;Clean+UI+%2B+Responsive+Design;Open+for+Internships+%26+Junior+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=60&lines=Frontend+Developer;React+%26+Next.js+Developer;Next.js+App+Router+Learner;MERN+Stack+Developer;Clean+UI+%2B+Responsive+Design;Open+for+Internships+%26+Junior+Roles" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="https://arafat-nexus-2.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/easin-arafat-2147473a9/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:arafatgw5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/arafatgw5-cpu">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
@@ -56,6 +56,7 @@ My goal is to become a strong developer who can build real-world production-leve
 - 🌐 REST API integration  
 - 🗄️ MongoDB and Express.js backend  
 - 🚀 Deployment with Vercel and Netlify  
+- 📚 Improving problem solving and clean code skills  
 
 <br clear="right"/>
 
@@ -83,6 +84,7 @@ My goal is to become a strong developer who can build real-world production-leve
 ![Node.js](https://img.shields.io/badge/Node.js-16A34A?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-15803D?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-F59E0B?style=flat-square&logo=firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-0891B2?style=flat-square&logo=netlify&logoColor=white)
 
@@ -90,7 +92,7 @@ My goal is to become a strong developer who can build real-world production-leve
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -101,7 +103,7 @@ My goal is to become a strong developer who can build real-world production-leve
 A modern online learning platform with authentication, course listing, protected pages, and responsive UI.
 
 **Tech Used:**  
-Next.js, Tailwind CSS, DaisyUI, Better Auth, MongoDB
+`Next.js` `Tailwind CSS` `DaisyUI` `Better Auth` `MongoDB`
 
 **Key Features**
 - 🔐 Authentication with Better Auth  
@@ -127,7 +129,7 @@ Next.js, Tailwind CSS, DaisyUI, Better Auth, MongoDB
 A modern news website with category-based routing, API data fetching, and responsive layout.
 
 **Tech Used:**  
-React, Next.js, Tailwind CSS, REST API
+`React` `Next.js` `Tailwind CSS` `REST API`
 
 **Key Features**
 - 📰 Dynamic category routes  
@@ -156,7 +158,7 @@ React, Next.js, Tailwind CSS, REST API
 A smart relationship management app for managing contacts, reminders, and analytics.
 
 **Tech Used:**  
-React, Tailwind CSS, Local Storage
+`React` `Tailwind CSS` `Local Storage`
 
 **Key Features**
 - 👥 Contact management  
@@ -182,7 +184,7 @@ React, Tailwind CSS, Local Storage
 A clean e-commerce style marketplace for digital products and tools.
 
 **Tech Used:**  
-React, Tailwind CSS, Netlify
+`React` `Tailwind CSS` `Netlify`
 
 **Key Features**
 - 🛒 Product catalog  
@@ -211,7 +213,7 @@ React, Tailwind CSS, Netlify
 A visual issue tracking project with GitHub API integration and clean UI.
 
 **Tech Used:**  
-HTML, CSS, JavaScript, GitHub API
+`HTML` `CSS` `JavaScript` `GitHub API`
 
 **Key Features**
 - 🔍 Search and filter  
@@ -236,7 +238,7 @@ HTML, CSS, JavaScript, GitHub API
 A modern personal portfolio website with project showcase and smooth user experience.
 
 **Tech Used:**  
-Next.js, Tailwind CSS, Vercel
+`Next.js` `Tailwind CSS` `Vercel`
 
 **Key Features**
 - 🌟 Modern portfolio design  
@@ -263,13 +265,21 @@ Next.js, Tailwind CSS, Vercel
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arafatgw5-cpu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Easin Arafat GitHub Stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=arafatgw5-cpu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Easin Arafat GitHub Streak" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arafatgw5-cpu&theme=tokyonight" alt="GitHub Profile Summary" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatgw5-cpu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Easin Arafat Top Languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arafatgw5-cpu&theme=tokyonight" alt="Repos Per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arafatgw5-cpu&theme=tokyonight" alt="Most Commit Language" />
+
+<br/><br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arafatgw5-cpu&theme=tokyonight" alt="GitHub Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arafatgw5-cpu&theme=tokyonight&utcOffset=6" alt="Productive Time" />
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=arafatgw5-cpu&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -279,13 +289,13 @@ Next.js, Tailwind CSS, Vercel
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arafatgw5-cpu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Easin Arafat Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=arafatgw5-cpu&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -304,8 +314,8 @@ Next.js, Tailwind CSS, Vercel
 | **Next.js App Router** | ████████░░ 80% | Server Actions & Advanced Routing |
 | **TypeScript** | ██████░░░░ 60% | Type-safe full stack apps |
 | **Node.js + Express** | ██████░░░░ 60% | Strong REST API building |
-| **MongoDB** | ██████░░░░ 60% | Aggregation & indexing |
-| **Authentication** | █████░░░░░ 50% | Better Auth + OAuth mastery |
+| **MongoDB** | ██████░░░░ 60% | Aggregation & Indexing |
+| **Authentication** | █████░░░░░ 50% | Better Auth + OAuth Mastery |
 
 </div>
 
@@ -371,6 +381,6 @@ Next.js, Tailwind CSS, Vercel
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7C3AED,50:2563EB,100:0F172A&section=footer&text=Thanks%20For%20Visiting!&fontColor=FFFFFF&fontSize=35&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:020617,35:7C3AED,70:2563EB,100:020617&section=footer&text=Thanks%20For%20Visiting!&fontColor=FFFFFF&fontSize=38&fontAlignY=55&animation=twinkling" />
 
 </div>

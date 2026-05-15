@@ -284,7 +284,7 @@ A modern portfolio website for showcasing skills, projects, and developer profil
 <a href="https://arafat-nexus-2.vercel.app">
   <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://github.com/arafatgw5-cpu/Aspiring-Web-Developer-A">
+<a href="https://github.com/arafatgw5-cpu/Arafat-Nexus-2">
   <img src="https://img.shields.io/badge/Code-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 

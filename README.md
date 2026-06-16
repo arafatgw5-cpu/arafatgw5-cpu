@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h2>👋 Assalamu Alaikum, I'm <strong>Easin Arafat</strong></h2>
+<h2>👋, I'm <strong>Easin Arafat</strong></h2>
 
 <h3>
   🚀 Aspiring Full Stack Developer from Bangladesh 🇧🇩 <br/>

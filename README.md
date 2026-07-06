@@ -131,7 +131,36 @@ My main focus is building real-world projects with **React, Next.js, Tailwind CS
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0D1117,50:1E40AF,100:7C3AED&text=Selected%20Projects&fontColor=FFFFFF&fontSize=30&fontAlignY=55" alt="Selected Projects" />
 
 </div>
+<br/>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=75&color=0:0D1117,50:1E40AF,100:7C3AED&text=Selected%20Projects&fontColor=FFFFFF&fontSize=30&fontAlignY=55" alt="Selected Projects" />
+</div>
+<br/>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🎟️ Ticket Bari</h3>
+<strong>Multi-Role Ticket Booking Platform</strong>
 
+A full-stack ticket booking platform for buses, trains, flights, and launches — with dedicated dashboards for users, vendors, and admins, plus secure Stripe payments.
+
+<strong>Stack:</strong>
+Next.js Express.js MongoDB JWT Stripe
+
+<strong>Highlights</strong>
+
+
+Role-based access for User, Vendor & Admin
+Stripe-powered secure checkout
+Vendor & admin management dashboards
+JWT authentication with protected routes
+
+
+<br/>
+<a href="https://a-fff.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://github.com/arafatgw5-cpu/Ticket-Booking-Platform-FFF">
 <br/>
 
 <table>
@@ -373,11 +402,7 @@ A modern developer portfolio built to showcase skills, projects, and profile in 
 
 <br/>
 
-<div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=arafatgw5-cpu&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
@@ -409,11 +434,11 @@ A modern developer portfolio built to showcase skills, projects, and profile in 
 
 | Focus Area | Progress | Target |
 |---|---:|---|
-| **Next.js App Router** | ████████░░ 80% | Server Actions & Advanced Routing |
-| **TypeScript** | ██████░░░░ 60% | Type-safe full stack projects |
-| **Node.js + Express** | ██████░░░░ 60% | Strong REST API development |
-| **MongoDB** | ██████░░░░ 60% | Aggregation & indexing |
-| **Authentication** | █████░░░░░ 50% | Better Auth + OAuth mastery |
+| **Next.js App Router** |
+| **TypeScript** | 
+| **Node.js + Express** | 
+| **MongoDB** |
+| **Authentication** | 
 
 </div>
 

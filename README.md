@@ -50,20 +50,19 @@
 
 ### 💫 Who I Am
 
-I'm **Easin Arafat**, an aspiring **Full Stack / Frontend Web Developer** from Bangladesh.  
-I enjoy transforming ideas into **clean, responsive, performance-focused, and user-friendly** web applications.
+I'm **Easin Arafat**, an aspiring **Full Stack / Frontend Web Developer** from Bangladesh.
+I enjoy turning ideas into **clean, responsive, and user-friendly** web applications — and I learn best by shipping real projects, not just following tutorials.
 
-My main focus is building real-world projects with **React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and authentication systems**.  
-I believe every project makes me better, every bug teaches me something, and every line of code moves me forward.
+My main focus is building real-world projects with **React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and authentication systems**. Every project takes me one step closer to becoming the developer I'm working to be.
 
-### 🔥 Current Focus
+### ⚡ Quick Facts
 
-- 🚀 Building production-style projects with **Next.js App Router**
-- 🎨 Creating modern UI with **Tailwind CSS** and **DaisyUI**
-- 🔐 Learning **Better Auth**, Google OAuth, and GitHub OAuth
-- 🗄️ Practicing backend development with **Express.js** and **MongoDB**
-- 🌐 Working with REST APIs, dynamic routes, and protected pages
-- 📚 Improving debugging, clean code, and problem-solving skills
+- 🔭 **Currently building:** production-style projects with Next.js App Router
+- 🌱 **Currently learning:** Better Auth, Google/GitHub OAuth & advanced TypeScript
+- 🎨 **Building UI with:** Tailwind CSS + DaisyUI
+- 🗄️ **Backend practice:** Express.js, MongoDB & REST API design
+- 💬 **Ask me about:** React, Next.js, Tailwind CSS, MongoDB & authentication systems
+- 📫 **Reach me at:** arafatgw5@gmail.com
 
 <br clear="right"/>
 
@@ -85,23 +84,45 @@ I believe every project makes me better, every bug teaches me something, and eve
 
 <br/>
 
+<details>
+<summary align="center"><strong>🔍 Click for full breakdown by category</strong></summary>
+
+<br/>
+
 <div align="center">
+
+**Languages**
 
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=22C55E)
 ![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=22C55E)
 ![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=F59E0B)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-0D1117?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
 </div>
+
+</details>
 
 ---
 
@@ -121,17 +142,17 @@ I believe every project makes me better, every bug teaches me something, and eve
 
 <strong>Online Learning Platform</strong>
 
-A modern learning platform with authentication, course listing, protected pages, and responsive UI.
+A full-featured online learning platform where users can browse courses, sign in securely, and access protected content — built to mirror real-world EdTech products.
 
-<strong>Stack:</strong>  
+<strong>Stack:</strong>
 `Next.js` `Tailwind CSS` `DaisyUI` `Better Auth` `MongoDB`
 
 <strong>Highlights</strong>
 
-- Better Auth authentication
-- Course listing and details page
-- Protected route system
-- Clean responsive interface
+- Secure sign-in with Better Auth
+- Dynamic course listing & detail pages
+- Role-based protected routes
+- Clean, responsive DaisyUI interface
 
 <br/>
 
@@ -149,17 +170,17 @@ A modern learning platform with authentication, course listing, protected pages,
 
 <strong>Modern News Portal</strong>
 
-A dynamic news website with category routing, API data fetching, and clean responsive layout.
+A category-based news portal that pulls live articles from a REST API, letting readers browse by topic and dive into full story details.
 
-<strong>Stack:</strong>  
+<strong>Stack:</strong>
 `React` `Next.js` `Tailwind CSS` `REST API`
 
 <strong>Highlights</strong>
 
-- Dynamic category pages
-- News details route
-- API data integration
-- Clean responsive interface
+- Category-wise dynamic routing
+- Individual news detail pages
+- Live API-driven content
+- Fully responsive, distraction-free layout
 
 <br/>
 
@@ -180,17 +201,17 @@ A dynamic news website with category routing, API data fetching, and clean respo
 
 <strong>Smart Contact Management App</strong>
 
-A relationship manager app for contacts, reminders, and simple analytics.
+A personal CRM-style app for organizing contacts, setting reminders, and tracking activity at a glance.
 
-<strong>Stack:</strong>  
+<strong>Stack:</strong>
 `React` `Tailwind CSS` `Local Storage`
 
 <strong>Highlights</strong>
 
-- Contact management
-- Reminder system
-- Analytics dashboard
-- Local storage support
+- Add, edit & organize contacts
+- Reminder scheduling system
+- At-a-glance analytics dashboard
+- Persistent local storage
 
 <br/>
 
@@ -208,16 +229,16 @@ A relationship manager app for contacts, reminders, and simple analytics.
 
 <strong>Digital Product Marketplace</strong>
 
-A clean e-commerce style marketplace for digital tools and online products.
+An e-commerce style storefront for browsing digital products, built with a focus on clean product presentation.
 
-<strong>Stack:</strong>  
+<strong>Stack:</strong>
 `React` `Tailwind CSS` `Netlify`
 
 <strong>Highlights</strong>
 
-- Product catalog
-- Product details
-- Shopping-style UI
+- Browsable product catalog
+- Detailed product pages
+- Cart-ready shopping UI
 - Fully responsive layout
 
 <br/>
@@ -239,17 +260,17 @@ A clean e-commerce style marketplace for digital tools and online products.
 
 <strong>Issue Tracking Interface</strong>
 
-A lightweight issue tracking project with GitHub API integration.
+A lightweight tool that pulls live issues from any public GitHub repo, making it easy to search and filter through them.
 
-<strong>Stack:</strong>  
+<strong>Stack:</strong>
 `HTML` `CSS` `JavaScript` `GitHub API`
 
 <strong>Highlights</strong>
 
-- Search and filter
-- GitHub API integration
-- Clean issue interface
-- Lightweight frontend
+- Live GitHub API integration
+- Real-time search & filtering
+- Minimal, distraction-free UI
+- Built with vanilla JS — no framework needed
 
 <br/>
 
@@ -267,17 +288,17 @@ A lightweight issue tracking project with GitHub API integration.
 
 <strong>Personal Portfolio</strong>
 
-A modern portfolio website for showcasing skills, projects, and developer profile.
+A modern developer portfolio built to showcase skills, projects, and profile in one polished, responsive site.
 
-<strong>Stack:</strong>  
+<strong>Stack:</strong>
 `Next.js` `Tailwind CSS` `Vercel`
 
 <strong>Highlights</strong>
 
-- Modern portfolio layout
-- Project showcase
-- Responsive sections
-- Smooth user experience
+- Modern, responsive portfolio layout
+- Live project showcase
+- Smooth navigation & transitions
+- Deployed on Vercel
 
 <br/>
 
@@ -291,6 +312,14 @@ A modern portfolio website for showcasing skills, projects, and developer profil
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+<a href="https://github.com/arafatgw5-cpu?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -314,7 +343,7 @@ A modern portfolio website for showcasing skills, projects, and developer profil
 <br/><br/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arafatgw5-cpu&theme=github_dark" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=arafatgw5-cpu&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=arafatgw5-cpu&theme=github-dark-blue&hide_border=true&border_radius=8" alt="GitHub Streak" />
 
 </div>
 
@@ -372,9 +401,11 @@ A modern portfolio website for showcasing skills, projects, and developer profil
 
 ---
 
+<div align="center">
+
 ## 🎯 Current Roadmap
 
-<div align="center">
+*What I'm actively leveling up on right now:*
 
 | Focus Area | Progress | Target |
 |---|---:|---|
@@ -389,6 +420,8 @@ A modern portfolio website for showcasing skills, projects, and developer profil
 ---
 
 ## 💼 Open To Work
+
+*Actively looking for the following opportunities — let's talk!*
 
 <div align="center">
 
@@ -431,7 +464,7 @@ A modern portfolio website for showcasing skills, projects, and developer profil
 
 ## ✨ Developer Mindset
 
-### “Build with passion. Learn with discipline. Improve every day.”
+### "Build with passion. Learn with discipline. Improve every day."
 
 **Every bug teaches me, every project grows me, and every line of code moves me forward.**
 
